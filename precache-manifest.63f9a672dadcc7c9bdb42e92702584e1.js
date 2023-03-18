@@ -184,6 +184,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/github_logo.e64de169.png"
   },
   {
+    "revision": "e64de169a4222787bc49f3706282ef96",
+    "url": "/static/media/ieeepes.jpg"
+  },
+  {
     "revision": "28b1b03d881f41d22968e0e1fde3a09c",
     "url": "/static/media/internshala_logo.28b1b03d.png"
   },
